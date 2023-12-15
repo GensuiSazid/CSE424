@@ -1,1 +1,1 @@
-# CSE424
+# Course: CSE424

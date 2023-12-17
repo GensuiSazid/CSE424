@@ -8,6 +8,7 @@ Link to unlisted YouTube video:
 
 
 Public link to the slide (Anyone on the internet can view without login):
+https://docs.google.com/presentation/d/1kNVdbYFlTERWjJCDT4ctGFNPC2sr2PfXRVonHs8kcBw/edit?usp=sharing
 
 
 Project title:

@@ -11,7 +11,7 @@ https://docs.google.com/presentation/d/1u6dD38-0wpjm9lZu-805r0DaqH_8IzOwddFXw1BX
 
 
 Project title:
-Early Detection of Alzheimer's Disease Through Pattern Recognition: A Multimodal Approach
+Early Detection of Alzheimer's Disease Through Pattern Recognition
 
 
 Group Number:

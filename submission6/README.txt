@@ -10,6 +10,9 @@ Conference submitted paper / paper submission / login Link:
 Paper title:
 Early Detection of Alzheimer's Disease Through Pattern Recognition
 
+Slides Link:
+https://docs.google.com/presentation/d/1KfthfN0fYC9dYUIv1IirZxqOGiqacv__A-i7In61mis/edit?usp=sharing
+
 
 Paper presentation (anyone can view without login):
 

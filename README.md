@@ -43,6 +43,15 @@ Students learn to extract features, build models, and evaluate classifier perfor
 
 ---
 
+## 🧩 Course Project
+
+### 🧠 Early Detection of Alzheimer’s Disease Through Pattern Recognition
+Developed a machine learning framework to detect early stages of Alzheimer’s Disease using MRI brain scans. Implemented **Random Forest**, **Support Vector Machine (SVM)**, and **Convolutional Neural Network (CNN)** models for multi-class classification across dementia stages.  
+The **SVM model achieved 99% accuracy**, outperforming CNN (90%) and Random Forest (92%). Data preprocessing involved normalization, segmentation, and feature extraction to highlight regions linked to neurodegeneration.  
+This project demonstrated the potential of AI and pattern recognition in medical imaging and early diagnosis.
+
+---
+
 ## 👨‍🏫 Course Supervisor
 **Mr. Annajiat Alim Rasel (AAR)**  
 *Senior Lecturer, Department of Computer Science and Engineering*  
